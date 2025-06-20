@@ -1,6 +1,14 @@
 <div align="center">
+  
+# Dominik Wójcik
 
-# 👋 Cześć! Witaj na moim profilu GitHub  
+</div>
+
+![Image](https://github.com/user-attachments/assets/9b0e3ca0-c5be-4c15-87a1-e6b535a1eb36)
+
+<div align="center">
+
+## 👋 Cześć! Witaj na moim profilu GitHub  
 
 🎓 Uczeń technikum | HTML • JavaScript • React • Node.js <br/>
 📚 Uczę się przez projekty | 🚀 W drodze do pracy w IT
