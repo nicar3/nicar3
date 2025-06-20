@@ -4,7 +4,7 @@
 
 </div>
 
-![Image](https://github.com/user-attachments/assets/9b0e3ca0-c5be-4c15-87a1-e6b535a1eb36)
+![Image](https://github.com/user-attachments/assets/aeb74845-e246-4390-a8d1-095bfab59378)
 
 <div align="center">
 
