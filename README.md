@@ -24,7 +24,7 @@
 </div>
 
 Jestem uczniem technikum programistycznego (2022–2027), rozwijającym się w kierunku tworzenia nowoczesnych aplikacji webowych.  
-Interesuję się zarówno frontendem, jak i backendem – najczęściej pracuję z React, CSS, Node.js i Express.  
+Interesuję się zarówno frontendem, jak i backendem – najczęściej pracuję z React, Tailwind CSS, Node.js i Express.  
 Stawiam na praktykę: buduję projekty, testuję nowe rozwiązania i uczę się pracy zespołowej z użyciem Git i GitHub.
 
 ---
@@ -36,7 +36,7 @@ Stawiam na praktykę: buduję projekty, testuję nowe rozwiązania i uczę się 
 </div>
 
 - 💻 Języki: **JavaScript, Python (podstawy)**  
-- 🌐 Frontend: **HTML, CSS, Bootstrap, React**  
+- 🌐 Frontend: **HTML, CSS, Bootstrap, Tailwind CSS, React**  
 - 🛠️ Backend: **Node.js, Express, PHP (podstawy)**  
 - 🗃️ Bazy danych: **MySQL, MongoDB, PostgreSQL**  
 - 🔧 Narzędzia: **Git, GitHub, Visual Studio Code, Figma**
@@ -49,8 +49,8 @@ Stawiam na praktykę: buduję projekty, testuję nowe rozwiązania i uczę się 
 
 </div>
 
-- ⚛️ React z TypeScriptem  
-- 📚 Algorytmy i struktury danych  
+- ⚛️ Tailwind CSS
+- 📚 NextJS
 - 🧪 Testowanie aplikacji (w planach)
 
 ---
